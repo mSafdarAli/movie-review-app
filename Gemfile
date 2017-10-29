@@ -10,6 +10,7 @@ end
 gem 'rails', '~> 5.0.6'
 gem 'devise', '~> 4.3'
 gem 'paperclip', '~> 5.1'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
